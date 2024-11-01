@@ -1,4 +1,4 @@
-#Weather App
+# Weather App
 A simple weather application that fetches and displays current weather information for any city. Built using HTML, CSS, and JavaScript, with the Fetch API for retrieving weather data.
 
 Features
