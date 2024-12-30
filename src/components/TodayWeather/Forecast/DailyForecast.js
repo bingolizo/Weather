@@ -19,7 +19,7 @@ const TodaysRecommendations = ({ data, forecastList }) => {
     content = <ErrorBox flex="1" type="error" />;
   } else {
     const weatherCondition = data?.weather?.[0]?.main?.toLowerCase();
-    const temperature = data?.main?.temp; // Assuming temperature in Kelvin
+    const temperature = data?.main?.temp; 
 
     let recommendations = [];
 
