@@ -33,7 +33,7 @@ const TodaysRecommendations = ({ data, forecastList }) => {
       if (weatherCondition.includes('thunderstorm')) {
         recommendations.push('Stay indoors and avoid open areas.');
       }
-      if (temperature && temperature > 295.15) { // Assuming above 22°C is warm
+      if (temperature && temperature  > 295.15) { 
         recommendations.push('Wear light clothing and stay hydrated.');
       } else if (temperature && temperature < 283.15) { // Assuming below 10°C is cold
         recommendations.push('Bundle up in warm layers.');
