@@ -190,7 +190,7 @@ function App() {
         />
         <UTCDatetime />
         <Link
-          href="https://github.com/bbingolizo/Weather"
+          href="https://github.com/bingolizo/Weather"
           target="_blank"
           underline="none"
           sx={{ display: 'flex' }}
