@@ -49,7 +49,3 @@ Check `packages.json` for details
 <br/>
 
 
-- [ ] Dark/Light Mode
-
-<br/>
-Thank You ☺
