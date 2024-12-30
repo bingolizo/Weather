@@ -29,7 +29,7 @@ https://weatherforcasterapp.netlify.app
 - Clone the repository:
 
 ```bash
-git clone https://github.combingolizo/Weather.git
+git clone https://github.com/bingolizo/Weather.git
 
 ```
 
